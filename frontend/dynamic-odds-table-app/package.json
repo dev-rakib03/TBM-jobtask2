@@ -1,0 +1,28 @@
+{
+  "name": "dynamic-odds-table-app",
+  "version": "1.0.0",
+  "description": "A dynamic odds table application using Next.js with app routing, allowing users to search and view match odds.",
+  "main": "src/app/page.jsx",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "eslint": "latest",
+    "eslint-config-next": "latest"
+  },
+  "keywords": [
+    "nextjs",
+    "odds",
+    "sports",
+    "react"
+  ],
+  "author": "",
+  "license": "MIT"
+}

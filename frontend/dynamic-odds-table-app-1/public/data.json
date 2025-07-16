@@ -1,0 +1,101 @@
+{
+  "status": 200,
+  "data": [
+    {
+      "gid": "1000",
+      "id": "1000",
+      "matches": {
+        "match": {
+          "awayteam": {
+            "id": "1006",
+            "name": "Atlanta Braves"
+          },
+          "date": "01.09.2024",
+          "id": "327667",
+          "localteam": {
+            "id": "1009",
+            "name": "Philadelphia Phillies"
+          },
+          "odds": {
+            "type": [
+              {
+                "value": "3Way Result",
+                "bookmaker": [
+                  {
+                    "name": "Bookmaker A",
+                    "odd": [
+                      { "name": "Home Win", "value": "1.5" },
+                      { "name": "Draw", "value": "3.0" },
+                      { "name": "Away Win", "value": "2.5" }
+                    ]
+                  },
+                  {
+                    "name": "Bookmaker B",
+                    "odd": [
+                      { "name": "Home Win", "value": "1.6" },
+                      { "name": "Draw", "value": "2.9" },
+                      { "name": "Away Win", "value": "2.4" }
+                    ]
+                  }
+                ]
+              },
+              {
+                "value": "Over/Under",
+                "bookmaker": [
+                  {
+                    "name": "Bookmaker A",
+                    "odd": [
+                      { "name": "Over 8.5", "value": "1.8" },
+                      { "name": "Under 8.5", "value": "2.0" }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "status": "Not Started",
+          "time": "23:10"
+        }
+      },
+      "name": "Usa: Mlb"
+    },
+    {
+      "gid": "1001",
+      "id": "1001",
+      "matches": {
+        "match": {
+          "awayteam": {
+            "id": "1007",
+            "name": "New York Yankees"
+          },
+          "date": "01.09.2024",
+          "id": "327668",
+          "localteam": {
+            "id": "1010",
+            "name": "Boston Red Sox"
+          },
+          "odds": {
+            "type": [
+              {
+                "value": "3Way Result",
+                "bookmaker": [
+                  {
+                    "name": "Bookmaker A",
+                    "odd": [
+                      { "name": "Home Win", "value": "1.7" },
+                      { "name": "Draw", "value": "3.2" },
+                      { "name": "Away Win", "value": "2.3" }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "status": "Not Started",
+          "time": "20:05"
+        }
+      },
+      "name": "Usa: Mlb"
+    }
+  ]
+}
